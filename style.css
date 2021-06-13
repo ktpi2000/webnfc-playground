@@ -1,0 +1,20 @@
+.button {
+  font-size: 18px;
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #40c953;
+  color: #fff;
+  padding: 8px 16px;
+  
+}
+
+.inputText {
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+
+.log {
+  background: #c4c4c4;
+  margin-top: 20px;
+}
